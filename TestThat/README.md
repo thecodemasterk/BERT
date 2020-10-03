@@ -1,6 +1,6 @@
 # BERT
 
-**\*\*\*\*\* New March 11th, 2020: Smaller BERT Models \*\*\*\*\***
+**\*\*\*\*\* UPDATED, Oct-2020: Smaller BERT Models \*\*\*\*\*** Karthik Thandapani
 
 This is a release of 24 smaller BERT models (English only, uncased, trained with WordPiece masking) referenced in [Well-Read Students Learn Better: On the Importance of Pre-training Compact Models](https://arxiv.org/abs/1908.08962).
 
